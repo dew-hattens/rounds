@@ -1,0 +1,5 @@
+#1 apply match type preferences. no singles, doubles or mixed for example
+   players choice is in the players.txt file
+
+1	true
+

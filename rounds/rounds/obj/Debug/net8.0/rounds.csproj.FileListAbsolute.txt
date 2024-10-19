@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\rounds\rounds\bin\Debug\net8.0\rounds.exe
+C:\Users\marti\source\repos\rounds\rounds\bin\Debug\net8.0\rounds.deps.json
+C:\Users\marti\source\repos\rounds\rounds\bin\Debug\net8.0\rounds.runtimeconfig.json
+C:\Users\marti\source\repos\rounds\rounds\bin\Debug\net8.0\rounds.dll
+C:\Users\marti\source\repos\rounds\rounds\bin\Debug\net8.0\rounds.pdb
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.AssemblyInfo.cs
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.dll
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\refint\rounds.dll
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.pdb
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\rounds.genruntimeconfig.cache
+C:\Users\marti\source\repos\rounds\rounds\obj\Debug\net8.0\ref\rounds.dll

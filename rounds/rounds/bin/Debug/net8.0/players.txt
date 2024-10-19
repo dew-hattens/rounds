@@ -1,0 +1,73 @@
+#Player Number
+#Surname
+#FirstName
+#Gender (male/female)
+#plays singles(true/false)
+#plays doubles(true/false)
+#Players mixed(true/false)
+
+#Unused from here ---
+
+#Preferred doubles player number (0 for none)
+#Preferred Mixed player number (0 for none)
+#Singles ranking
+#Doubles ranking
+#Mixed ranking
+
+
+
+1	Surname1	cname1		male	false	true	true	0	0	34	50	55
+2	Surname2	cname2		male	true	false	true	0	0	56	200	99	
+3	Surname3	cname3  	male 	true	true	false	0	0	24	20	30
+4	Surname4	cname4		male	true	true	true	0	0	12	12	34
+5	Surname5	cname5		female	true	true	true	0	0	34	50	55
+6	Surname6	cname6 		female	true	true	true	0	0	56	200	99	
+7	Surname7	cname7  	female 	true	true	true	0	0	24	20	30
+8	Surname8	cname8		female	true	true	true	0	0	12	12	34
+9	Surname9	cname9		male	true	true	true	0	0	34	50	55
+10	Surname10	cname10		male	true	true	true	0	0	34	50	55
+11	Surname11	cname11		male	true	true	true	0	0	34	50	55
+12	Surname12	cname12		male	true	true	true	0	0	34	50	55
+13	Surname13	cname13		male	true	true	true	0	0	34	50	55
+14	Surname14	cname14		male	true	true	true	0	0	34	50	55
+15	Surname15	cname15		male	true	true	true	0	0	34	50	55
+16	Surname16	cname16		female	true	true	true	0	0	34	50	55
+17	Surname17	cname17		female	true	true	true	0	0	34	50	55
+18	Surname18	cname18		female	true	true	true	0	0	34	50	55
+19	Surname19	cname19		female	true	true	true	0	0	34	50	55
+20	Surname20	cname20		female	true	true	true	0	0	34	50	55
+21	Surname21	cname21		female	true	true	true	0	0	34	50	55
+22	Surname22	cname22		female	true	true	true	0	0	34	50	55
+23	Surname23	cname23		female	true	true	true	0	0	34	50	55
+24	Surname24	cname24		female	true	true	true	0	0	34	50	55
+25	Surname25	cname25		female	true	true	true	0	0	34	50	55
+26	Surname26	cname26		female	true	true	true	0	0	34	50	55
+27	Surname27	cname27		male	true	true	true	0	0	34	50	55
+28	Surname28	cname28		male	true	true	true	0	0	34	50	55
+29	Surname29	cname29		male	true	true	true	0	0	34	50	55
+30	Surname30	cname30		male	true	true	true	0	0	34	50	55
+31	Surname31	cname31		male	true	true	true	0	0	34	50	55
+32	Surname32	cname32		male	true	true	true	0	0	34	50	55
+33	Surname33	cname33		male	true	true	true	0	0	34	50	55
+34	Surname34	cname34		male	true	true	true	0	0	34	50	55
+35	Surname35	cname35		male	true	true	true	0	0	34	50	55
+36	Surname36	cname36		male	true	true	true	0	0	34	50	67
+37	Surname37	cname37		male	true	true	true	0	0	34	50	55
+38	Surname38	cname38		male	true	true	true	0	0	34	50	55
+39	Surname39	cname39		male	true	true	true	0	0	34	50	55
+40	Surname40	cname40		male	true	true	true	0	0	34	50	55
+41	Surname41	cname41		male	true	true	true	0	0	34	50	55
+42	Surname42	cname42		male	true	true	true	0	0	34	50	55
+
+
+
+
+
+
+
+
+
+
+
+
+

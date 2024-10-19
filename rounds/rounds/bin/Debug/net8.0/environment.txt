@@ -1,0 +1,2 @@
+courts	6
+rounds	3
